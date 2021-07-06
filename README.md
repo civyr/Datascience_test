@@ -34,10 +34,8 @@ El presente trabajo busca poder estimar el tiempo total de entrega de una gran c
 
 En el trabajo se realizan varios procesos que comienzan con unificar las bases en un solo dataset, posteriormente se imputo data, se generaron dummies y se crearon nuevas variables para lograr enriquecer la data y predecir de mejor forma. Luego  se realiza un análisis exploratorio para entender la distribución de las variables y conocer la relación existentes entre ellas, principalmente como influyen en la variable que se busca predecir. Luego se ajustaron dos modelos de ML que fueron una regresión lineal multiple y un random forest.
 
-En el repositorio se encuentra el archivo principal que 
+En el repositorio se encuentra el archivo principal que es DS Cornershop test.ipynb donde se encuentra detalladamente paso a paso el proceso utilizado para llegar a  predecir el tiempo total de las ordenes. Además, se encuentra una carpeta llamada data 1 donde se encuentran las bases de datos inciales entregadas por el equipo reclutador y las predicciones logradas por el mejor modelo obtenido.
 
 
 
-Teniendo en consideración el objetivo del desafío más la data entregada, se realizó una serie de preprocesamiento y transformaciones para consolidar la data y eventualmente hacer un análisis exploratorio para entender los datos y posteriormente la implementación de varios algoritmos de ML para modelar los datos y estimar el tiempo de entrega en aquellas observaciones donde presentaban valores perdidos.
 
-Dentro del repositorio se encuentra una serie de archivos y carpetas como parte del desarrollo de este desafío, para mirar con detalles todo el proceso de cómo se llegó a predecir el tiempo total (minutos) de aquellas ordenes o pedidos debe ir al notebbok llamado Cornershop_test, ahí encontrarán el desarrollo de las 6 etapas o fases de la resolución del desafío.
